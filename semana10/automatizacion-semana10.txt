@@ -1,0 +1,16 @@
+En el archivo automatizacion-semana10.txt describe un flujo simple de automatización usando n8n y Telegram.
+
+Debe responder estas preguntas:
+
+¿Qué evento activa el flujo?
+¿Qué mensaje se enviaría a Telegram?
+¿Qué información no debería enviarse por seguridad?
+Ejemplo de idea:
+
+Evento: nuevo reporte registrado.
+
+Acción: enviar mensaje a Telegram.
+
+Mensaje: “Nuevo reporte recibido. Revisar sistema.”
+
+Información que no debe enviarse: nombres completos, documentos de identidad, direcciones, teléfonos, claves o datos sensibles.
